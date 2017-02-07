@@ -1,0 +1,13 @@
+Make a file to be pushed to the repository
+Go to your git repository in the directory
+
+git status
+	Shows the status of the repository
+git add <filename.type>
+	Adds the file to your repository ready for commit
+git commit -m "Type in your message here"
+	Commits the file to the repository and allows you to write a message
+git push
+	Uploads the current version of the repository to the GitHub
+git pull
+	Downloads the version of the project from GitHub to your local repository
